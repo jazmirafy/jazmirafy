@@ -9,7 +9,6 @@ I’m especially interested in game engines, graphics, extended reality, gamepla
 
 I use code as my medium to create!
 
-![](https://raw.githubusercontent.com/jazmirafy/temp/master/profile-summary-card-output/aura/0-profile-details.svg)
-![](https://raw.githubusercontent.com/jazmirafy/temp/master/profile-summary-card-output/aura/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/jazmirafy/temp/master/profile-summary-card-output/aura/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/jazmirafy/temp/master/profile-summary-card-output/aura/3-stats.svg) ![](https://raw.githubusercontent.com/jazmirafy/temp/master/profile-summary-card-output/aura/4-productive-time.svg)
-
+![](https://raw.githubusercontent.com/jazmirafy/jazmirafy/master/profile-summary-card-output/midnight_purple/0-profile-details.svg)
+![](https://raw.githubusercontent.com/jazmirafy/jazmirafy/master/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)![](https://raw.githubusercontent.com/jazmirafy/jazmirafy/master/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/jazmirafy/jazmirafy/master/profile-summary-card-output/midnight_purple/3-stats.svg)![](https://raw.githubusercontent.com/jazmirafy/jazmirafy/master/profile-summary-card-output/midnight_purple/4-productive-time.svg)
